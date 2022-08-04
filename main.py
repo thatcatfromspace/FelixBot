@@ -740,4 +740,3 @@ async def messier(ctx, messierID):
 
 
 bot.run(os.getenv("token"))
-#move bitch get off the way, get off the way means get off the way
