@@ -1,0 +1,703 @@
+{
+    'abbr': 'And', 
+    'name': 'Andromeda', 
+    'genitive': 'Andromedae', 
+    'en': 'Andromeda (mythological character)', 
+    'url': 'url', 
+    'prominent': ' '
+    
+    }, {
+        'abbr': 'Ant', 
+        'name': 'Antlia', 
+        'genitive': 'Antliae', 
+        'en': 'air pump', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+        'abbr': 'Aps', 
+        'name': 'Apus', 
+        'genitive': 'Apodis', 
+        'en': 'Bird-of-paradise', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+        'abbr': 'Aqr', 
+        'name': 'Aquarius', 
+        'genitive': 'Aquarii', 
+        'en': 'water-bearer', 
+        'url': 'url', 
+        'prominent': ' '
+    
+    }, {
+        'abbr': 'Aql', 
+        'name': 'Aquila', 
+        'genitive': 'Aquilae', 
+        'en': 'eagle', 
+        'url': 'url', 
+        'prominent': ' '
+    }, {
+        'abbr': 'Ara', 
+        'name': 'Ara', 
+        'genitive': 'Arae', 
+        'en': 'altar', 
+        'url': 'url', 
+        'prominent': ' '
+    
+    }, {
+        'abbr': 'Ari', 
+        'name': 'Aries', 
+        'genitive': 'Arietis', 
+        'en': 'ram', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+        'abbr': 'Aur', 
+        'name': 'Auriga', 
+        'genitive': 'Aurigae', 
+        'en': 'charioteer', 
+        'url': 'url', 
+        'prominent': ' '
+    
+    }, {
+        'abbr': 'Boo', 
+        'name': 'Boötes', 
+        'genitive': 'Boötis', 
+        'en': 'herdsman', 
+        'url': 'url', 
+        'prominent': ' '
+    
+    }, {
+        'abbr': 'Cae', 
+        'name': 'Caelum', 
+        'genitive': 'Caeli', 
+        'en': 'chisel or graving tool', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+        'abbr': 'Cam', 
+        'name': 'Camelopardalis', 
+        'genitive': 'Camelopardalis', 
+        'en': 'giraffe', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+            'abbr': 'Cnc', 
+            'name': 'Cancer', 
+            'genitive': 'Cancri', 
+            'en': 'crab', 
+            'url': 'url', 
+            'prominent': ' '
+        
+    }, {
+            'abbr': 'CVn', 
+            'name': 'Canes Venatici', 
+            'genitive': 'Canum Venaticorum', 
+            'en': 'hunting dogs', 
+            'url': 'url', 
+            'prominent': ' '
+        
+    }, {
+            'abbr': 'CMa', 
+            'name': 'Canis Major', 
+            'genitive': 'Canis Majoris', 
+            'en': 'greater dog', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'CMi', 
+            'name': 'Canis Minor', 
+            'genitive': 'Canis Minoris', 
+            'en': 'lesser dog', 
+            'url': 'url', 
+            'prominent': ' '
+            
+     }, {
+            'abbr': 'Cap', 
+            'name': 'Capricornus', 
+            'genitive': 'Capricorni', 
+            'en': 'sea goat', 
+            'url': 'url', 
+            'prominent': ' '
+        
+    }, {
+            'abbr': 'Car', 
+            'name': 'Carina', 
+            'genitive': 'Carinae', 
+            'en': 'keel', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cas', 
+            'name': 'Cassiopeia', 
+            'genitive': 'Cassiopeiae',
+            'en': 'Cassiopeia (mythological character)', 
+            'url': 'url', 'prominent': ' '
+            
+    }, {
+            'abbr': 'Cen', 
+            'name': 'Centaurus', 
+            'genitive': 'Centauri', 
+            'en': 'centaur', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cep', 
+            'name': 'Cepheus', 
+            'genitive': 'Cephei', 
+            'en': 'Cepheus (mythological character)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cet', 
+            'name': 'Cetus', 
+            'genitive': 'Ceti', 
+            'en': 'sea monster (whale)', 
+            'url': 'url', 
+            'prominent': ' '
+        
+    }, {
+            'abbr': 'Cha', 
+            'name': 'Chamaeleon', 
+            'genitive': 'Chamaeleontis', 
+            'en': 'chameleon', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cir', 
+            'name': 'Circinus', 
+            'genitive': 'Circini', 
+            'en': 'compasses', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Col', 
+            'name': 'Columba', 
+            'genitive': 'Columbae', 
+            'en': 'dove', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Com', 
+            'name': 'Coma Berenices', 
+            'genitive': 'Comae Berenices', 
+            'en': "Berenice's hair", 
+            'url': 'url', 
+            'prominent': ' '
+        
+    }, {
+            'abbr': 'CrA', 
+            'name': 'Corona Australis', 
+            'genitive': 'Coronae Australis',
+             'en': 'southern crown', 
+             'url': 'url', 
+             'prominent': ' '
+             
+    }, {
+            'abbr': 'CrB', 
+            'name': 'Corona Borealis', 
+            'genitive': 'Coronae Borealis', 
+            'en': 'northern crown', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Crv', 
+            'name': 'Corvus', 
+            'genitive': 'Corvi', 
+            'en': 'crow', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Crt', 
+            'name': 'Crater', 
+            'genitive': 'Crateris', 
+            'en': 'cup', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cru', 
+            'name': 'Crux', 
+            'genitive': 'Crucis', 
+            'en': 'southern cross', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Cyg', 
+            'name': 'Cygnus', 
+            'genitive': 'Cygni', 
+            'en': 'swan or Northern Cross', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Del', 
+            'name': 'Delphinus', 
+            'genitive': 'Delphini', 
+            'en': 'dolphin', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Dor', 
+            'name': 'Dorado', 
+            'genitive': 'Doradus', 
+            'en': 'dolphinfish', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Dra', 
+            'name': 'Draco', 
+            'genitive': 'Draconis',
+            'en': 'dragon', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Equ', 
+            'name': 'Equuleus', 
+            'genitive': 'Equulei', 
+            'en': 'pony', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Eri', 
+            'name': 'Eridanus', 
+            'genitive': 'Eridani',
+            'en': 'river Eridanus (mythology)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'For',
+            'name': 'Fornax', 
+            'genitive': 'Fornacis', 
+            'en': 'chemical furnace', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Gem', 
+            'name': 'Gemini', 
+            'genitive': 'Geminorum', 
+            'en': 'twins', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Gru', 
+            'name': 'Grus', 
+            'genitive': 'Gruis', 
+            'en': 'Crane', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Her', 
+            'name': 'Hercules', 
+            'genitive': 'Herculis', 
+            'en': 'Hercules (mythological character)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Hor', 
+            'name': 'Horologium', 
+            'genitive': 'Horologii', 
+            'en': 'pendulum clock', 
+            'url': 'url',
+            'prominent': ' '
+            
+    }, {
+        'abbr': 'Hya', 
+        'name': 'Hydra', 
+        'genitive': 'Hydrae', 
+        'en': 'Hydra (mythological creature)', 
+        'url': 'url', 
+        'prominent': ' '
+        
+    }, {
+            'abbr': 'Hyi', 
+            'name': 'Hydrus', 
+            'genitive': 'Hydri', 
+            'en': 'lesser water snake', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Ind', 
+            'name': 'Indus', 
+            'genitive': 'Indi', 
+            'en': 'Indian', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lac', 
+            'name': 'Lacerta', 
+            'genitive': 'Lacertae', 
+            'en': 'lizard', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Leo', 
+            'name': 'Leo', 
+            'genitive': 'Leonis', 
+            'en': 'lion', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'LMi', 
+            'name': 'Leo Minor', 
+            'genitive': 'Leonis Minoris', 
+            'en': 'lesser lion', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lep', 
+            'name': 'Lepus', 
+            'genitive': 'Leporis', 
+            'en': 'hare', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lib', 
+            'name': 'Libra', 
+            'genitive': 'Librae', 
+            'en': 'balance', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lup', 
+            'name': 'Lupus', 
+            'genitive': 'Lupi', 
+            'en': 'wolf', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lyn', 
+            'name': 'Lynx', 
+            'genitive': 'Lyncis', 
+            'en': 'lynx', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Lyr', 
+            'name': 'Lyra', 
+            'genitive': 'Lyrae', 
+            'en': 'lyre / harp', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Men', 
+            'name': 'Mensa', 
+            'genitive': 'Mensae', 
+            'en': 'Table Mountain (South Africa)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Mic', 
+            'name': 'Microscopium', 
+            'genitive': 'Microscopii', 
+            'en': 'microscope', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Mon', 
+            'name': 'Monoceros', 
+            'genitive': 'Monocerotis', 
+            'en': 'unicorn', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Mus', 
+            'name': 'Musca', 
+            'genitive': 'Muscae', 
+            'en': 'fly',
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Nor', 
+            'name': 'Norma', 
+            'genitive': 'Normae', 
+            'en': "carpenter's level", 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Oct', 
+            'name': 'Octans',
+            'genitive': 'Octantis', 
+            'en': 'octant (instrument)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Oph', 
+            'name': 'Ophiuchus', 
+            'genitive': 'Ophiuchi', 
+            'en': 'serpent-bearer', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Ori', 
+            'name': 'Orion', 
+            'genitive': 'Orionis',
+             'en': 'Orion (mythological character)', 
+             'url': 'url', 
+             'prominent': ' '
+             
+    }, {
+            'abbr': 'Pav', 
+            'name': 'Pavo', 
+            'genitive': 'Pavonis', 
+            'en': 'peacock', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Peg', 
+            'name': 'Pegasus', 
+            'genitive': 'Pegasi', 
+            'en': 'Pegasus (mythological creature)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Per', 
+            'name': 'Perseus', 
+            'genitive': 'Persei', 
+            'en': 'Perseus (mythological character)', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Phe', 
+            'name': 'Phoenix', 
+            'genitive': 'Phoenicis', 
+            'en': 'phoenix', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Pic', 
+            'name': 'Pictor', 
+            'genitive': 'Pictoris', 
+            'en': 'easel', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Psc', 
+            'name': 'Pisces', 
+            'genitive': 'Piscium', 
+            'en': 'fishes', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'PsA', 
+            'name': 'Piscis Austrinus', 
+            'genitive': 'Piscis Austrini', 
+            'en': 'southern fish', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Pup', 
+            'name': 'Puppis', 
+            'genitive': 'Puppis', 
+            'en': 'poop deck', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Pyx', 
+            'name': 'Pyxis', 
+            'genitive': 'Pyxidis', 
+            'en': "mariner's compass", 
+            'url': 'url', 
+            'prominent': ' '
+            
+        
+    }, {
+            'abbr': 'Ret', 
+            'name': 'Reticulum', 
+            'genitive': 'Reticuli', 
+            'en': 'eyepiece graticule', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Sge', 
+            'name': 'Sagitta', 
+            'genitive': 'Sagittae', 
+            'en': 'arrow', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Sgr', 
+            'name': 'Sagittarius', 
+            'genitive': 'Sagittarii', 
+            'en': 'archer', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Sco', 
+            'name': 'Scorpius', 
+            'genitive': 'Scorpii', 
+            'en': 'scorpion', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Scl', 
+            'name': 'Sculptor', 
+            'genitive': 'Sculptoris', 
+            'en': 'sculptor', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Sct', 
+            'name': 'Scutum', 
+            'genitive': 'Scuti', 
+            'en': 'shield (of Sobieski)', 
+            'url': 'url', 'prominent': ' '
+            
+    }, {
+            'abbr': 'Ser', 
+            'name': 'Serpens', 
+            'genitive': 'Serpentis', 
+            'en': 'snake', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Sex', 
+            'name': 'Sextans',
+            'genitive': 'Sextantis', 
+            'en': 'sextant', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Tau',
+            'name': 'Taurus', 
+            'genitive': 'Tauri', 
+            'en': 'bull', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Tel', 
+            'name': 'Telescopium', 
+            'genitive': 'Telescopii', 
+            'en': 'telescope', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Tri', 
+            'name': 'Triangulum', 
+            'genitive': 'Trianguli', 
+            'en': 'triangle', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'TrA', 
+            'name': 'Triangulum Australe', 
+            'genitive': 'Trianguli Australis', 
+            'en': 'southern triangle', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Tuc',
+            'name': 'Tucana', 
+            'genitive': 'Tucanae', 
+            'en': 'toucan', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'UMa', 
+            'name': 'Ursa Major', 
+            'genitive': 'Ursae Majoris', 
+            'en': 'great bear', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'UMi', 
+            'name': 'Ursa Minor', 
+            'genitive': 'Ursae Minoris', 
+            'en': 'lesser bear', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Vel', 
+            'name': 'Vela', 
+            'genitive': 'Velorum', 
+            'en': 'sails', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Vir', 
+            'name': 'Virgo', 
+            'genitive': 'Virginis', 
+            'en': 'virgin or maiden', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Vol', 
+            'name': 'Volans', 
+            'genitive': 'Volantis', 
+            'en': 'flying fish', 
+            'url': 'url', 
+            'prominent': ' '
+            
+    }, {
+            'abbr': 'Vul', 
+            'name': 'Vulpecula', 
+            'genitive': 'Vulpeculae', 
+            'en': 'fox', 
+            'url': 'url', 
+            'prominent': ' '
+            
+        }
