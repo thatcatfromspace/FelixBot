@@ -734,7 +734,7 @@ async def constellation(ctx, * , constellation): #Do not open unless absolutely 
 @bot.command(aliases = ["m", "M"])
 @commands.cooldown(rate = 1, per = 10, type = commands.BucketType.user)
 async def messier(ctx, messierID):
-    #Insert JSON here sigh 
+    #Insert JSON here 
     await ctx.send("Command will be available soon!")
 
 
