@@ -36,14 +36,6 @@ async def hello(ctx):
     await ctx.send("Hello " f"{ctx.author.mention} <3 Hope you're having a good day!") #works
 
 @bot.command()
-async def love(ctx):
-    await ctx.send("I love you too! <a:AG_BongoHeart:790239081551888434>")
-
-@bot.command()
-async def egg(ctx):
-    await ctx.send(":egg:")
-
-@bot.command()
 @commands.has_permissions(ban_members = True)
 async def purge(ctx , number : int):
     await ctx.channel.purge(limit = number + 1)
@@ -165,7 +157,7 @@ async def apod_error(ctx, error):
 
 @bot.command()
 async def iss(ctx):
-    await ctx.send("Fetching ISS information...") #Is this really required? It's just to show off anyways
+    await ctx.send("Fetching ISS information...") #Can be removed for faster access
     iss = requests.get("https://api.wheretheiss.at/v1/satellites/25544").json()
     embed = discord.Embed(title = "ISS data!", description = "Displaying the ISS stats for the current time.", color = 0xbee3db, timestamp= datetime.utcnow())
     embed.set_image(url = "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/international_space_station/22293527-2-eng-GB/International_Space_Station_pillars.gif")
@@ -183,18 +175,11 @@ async def iss(ctx):
 @commands.cooldown(rate = 1, per = 10, type = commands.BucketType.user)
 async def planet(ctx, planet : str, simplified = "simplified"):
     planet_lowercase = planet.lower()  #doing this so that API error doesn't occur
-    planet_list = ['http://space-facts.com/wp-content/uploads/mercury.png-transparent.png', #Lord forgive me for what I'm doing
-    'http://space-facts.com/wp-content/uploads/venus-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/earth-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/mars-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/jupiter-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/saturn-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/uranus-transparent.png', 
-    'http://space-facts.com/wp-content/uploads/neptune-transparent.png']
+    planet_list = ['mercury', 'venus', 'earth', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune']
     
-    if f"http://space-facts.com/wp-content/uploads/{planet_lowercase}-transparent.png" in planet_list:
-        planet_picture = planet_list.index(f"http://space-facts.com/wp-content/uploads/{planet_lowercase}-transparent.png")
-        url = planet_list[planet_picture]
+    if planet_lowercase in planet_list:
+        url = f"http://space-facts.com/wp-content/uploads/{planet_lowercase}-transparent.png"
+        
     try:    
         if simplified == "advanced" or simplified == "adv": #That's a lot of information wewww that's why this isn't default
             planet_info = requests.get(f"https://api.le-systeme-solaire.net/rest/bodies/{planet_lowercase}").json()
