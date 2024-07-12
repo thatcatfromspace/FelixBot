@@ -1,6 +1,6 @@
 # FelixBot
 
-**This project is no longer being maintained.** Due to changes in Discord's developer program and a few third party APIs being deprecated have rendered the project obsolete.  
+**This project is no longer being maintained.** Changes in Discord's developer program and a few third party APIs being deprecated have rendered the project obsolete.  
 
 FelixBot is a basic Discord bot written on Python. It primarily functions as a bot to fetch astronomical data, pictures and sighting opportunities. FelixBot is stil *under* development and is constantly 
 being updated, so watch out for new features!
